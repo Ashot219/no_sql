@@ -1,0 +1,52 @@
+.container-fluid {
+    height: 100vh;
+}
+
+.col-md-2 {
+    background-color: #f4f4f4;
+    border-right: 3px solid slategray;
+    height: 100vh;
+}
+
+#ik a {
+    margin: 3px auto;
+}
+
+#ik a:hover {
+    text-decoration: none;
+}
+
+.col-md-10 {
+    background-color: #f4f4f4;
+    height: 100vh;
+}
+
+#kap {
+    color: #3838e5;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#gaz {
+    color: chocolate;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.yuk {
+    color: #333333;
+    margin: 5px 0px;
+}
+
+#accordion a {
+    color: black;
+}
+
+.card-header{
+    cursor: pointer;
+}
+
+.m-l-15{
+    margin-top: -6px;
+    margin-left: 15px;
+}
